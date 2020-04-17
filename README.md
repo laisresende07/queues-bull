@@ -1,7 +1,7 @@
 ## Background jobs (filas) no Node.js com Bull
 
 
-Este projeto foi realizado utilizando uma biblioteca chamada Bull que nos permite não só executar background jobs mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática. *(painel para gerenciamento das filas: http://localhost:3333/admin/queues)*
+Este projeto foi realizado utilizando uma biblioteca chamada Bull que nos permite não só executar background jobs mas também monitorar falhas, realizar retentativas, adicionar prioridades e tudo isso de uma forma extremamente simples e performática. *(painel para gerenciamento das filas: localhost:[port]]/admin/queues)*
 
 ##  Pré-requisitos
 
