@@ -9,7 +9,7 @@ export default {
       from: 'Queue Test <queue@queuetest.com.br>',
       to: `${user.name} <${user.email}>`,
       subject: 'Cadastro de usuário',
-      html: `Olá, ${user.name}, bem-vindo ao sistema de filas da Rocketseat :D`
+      html: `Olá, ${user.name}, bem-vindo(a) ao meu sistemas de filas :)`
     });
   },
 };

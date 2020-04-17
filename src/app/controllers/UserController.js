@@ -15,6 +15,8 @@ export default {
 
     await Queue.add('UserReport', { user });
 
+    await Queue.add('NewJob', { user });
+
     return res.json(user);
   }
 };
